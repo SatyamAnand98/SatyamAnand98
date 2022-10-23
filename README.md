@@ -14,5 +14,5 @@
     - <img src="https://static-exp1.licdn.com/sc/h/2if24wp7oqlodqdlgei1n1520" width="20px"/> Connect me on [LinkedIn](https://www.linkedin.com/in/satyamanand/)
     - <img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" width="20px"/> Follow me on [instagram](https://www.instagram.com/satyam_anand_/)
    
-- 🏢 Works for <img src="https://github.com/SatyamAnand98/data/blob/master/soroco.png" width="20px" height="auto"/> [@Soroco](https://soroco.com/) as a Software Engineer
+- 🏢 Works for <img src="https://bolt-website-media.s3.ap-south-1.amazonaws.com/img/BOLT-logo.svg" width="20px" height="auto"/> [@Bolt.earth](https://www.bolt.earth) as a Software Engineer
 - Checkout my computer [setup](https://kit.co/satyam_anand_/computer-setup)
