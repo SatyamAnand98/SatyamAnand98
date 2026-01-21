@@ -4,7 +4,7 @@ https://satyamanand.in
 
 ---
 
-## Dynamic and result-driven Software Development Engineer with over 3 years of experience in the tech industry. Proven expertise in leading development projects that enhance user engagement, optimize system performance, and streamline data processing. Adept at transforming technical challenges into tangible business results, demonstrating a consistent record of achieving significant reductions in processing times, boosting system efficiency, and enhancing user satisfaction. Eager to apply innovative solutions and cutting-edge technologies to drive forward the initiatives.
+## I'm a Software Development Engineer specializing in building high-performance, scalable systems. Currently, I'm focused on architecting solutions that handle video transcoding and optimizations at Gumlet.com.
 
 ## CONTACTS
 
