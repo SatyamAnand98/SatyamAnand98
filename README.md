@@ -31,38 +31,45 @@ Frameworks Nodejs, Spring-MVC, Spring boot, Hibernate, Gin, revel, beego, FastAP
 
 ## EXPERIENCE- 3.6 YEARS
 
-#### Software Development Engineer 2 Bolt.Earth - Bangalore, India
+#### Software Development Engineer 2 @ Gumlet.com
+March 2025 - Present | Bangalore, India
 
-04/2023 - Present
 
--   Spearheaded a multi-channel notification system and building its Architecture, resulting in a 30% surge in user engagement and a 25% reduction in notification(s) delivery time.
--   Led a team of three in collaboration with clients and data experts to develop a charger log analytics data pipeline, achieving a remarkable 40% improvement in processing efficiency and accuracy.
--   Resolved customer pain points by re-engineering the charger booking API, doubling its efficiency, and boosting booking rates by 50%.
--   Proactively managed Sentry across all services, reducing system downtime by 15% and improving incident response by 25%.
--   Personally engaged with over 100 clients to streamline reporting processes, achieving 20% faster data retrieval and 30% more accurate reporting.
--   Worked closely with the product team to develop KYC services for chargers, increasing security compliance by 40% and user verification efficiency by 50%.
--   Collaborated with the product team to implement a user feedback system, resulting in a 60% increase in user engagement and 25% higher customer satisfaction.
--   Independently addressed customer-facing issues, refining OLAP design to cut query processing time by 45% and increase data analysis efficiency by 30%.
-    Technologies: MERN stack, gRPC, redis, Kafka, Sentry, Golang, Java, Maven, Spring-MVC, Spring boot, beego, Gin
+ - Led the development of a high-performance image processing pipeline using Rust, resulting in a 30% reduction in latency and a 25% increase in throughput, significantly enhancing user experience.
+ - Architected and implemented a scalable microservices architecture with Docker and Kubernetes, improving system reliability and reducing deployment times by 40%.
+ - Collaborated with cross-functional teams to design and launch a new feature that increased customer engagement by 20%, utilizing React for the frontend and Node.js for backend services.
+ - Optimized database performance by redesigning schema and indexing strategies, leading to a 50% reduction in query response times and improved overall application performance.
+ - Mentored junior developers, fostering a culture of continuous learning and professional growth within the team.
 
-#### Backend Developer Bolt.earth - Bangalore
+Technologies: MongoDB, Docker, Kubernetes, React, Node.js, PostgreSQL, AWS
 
-04/2022 - 03/2023
+#### Software Engineer @ Inflection.io
+July 2024 - Feb 2025 | Bangalore, India
 
--   User Action Tracking System Architect: Designed and implemented a comprehensive user action tracking system, integrating Kafka to achieve 100% coverage, following in-depth analysis of user behavior.
--   Referral System Innovator with Enhanced Engagement: Developed a highly efficient referral system using Nest.js, which resulted from understanding and addressing user needs, achieving a complete success in adoption and engagement.
--   Map Marker Clustering Optimization: Enhanced map marker clustering efficiency in iOS and Android applications, significantly optimizing performance and user experience.
--   Dynamic Routing System for Chargers: Created a dynamic routing system utilizing the Google Maps API, ensuring optimal navigation and accessibility between chargers.
-    Technologies: MERN stack, NestJs, Google Maps API, Java, Spring-MVC, Spring boot, Golang, revel
+ - Spearheaded architectural optimizations, enabling the system to scale from handling millions to billions of daily requests for seamless multi-client onboarding.
+ - Implemented significant system enhancements, resulting in a 20% reduction in development time and a 15% increase in customer satisfaction as measured by customer satisfaction metrics.
+ - Upgraded the B2B platform's reporting infrastructure, delivering deeper insights into customer targeting and engagement, driving data-driven decision-making.
+ - Refined database performance by implementing targeted optimizations that decreased load times for critical reports by an impressive 70%, enabling real-time insights without impacting user experience or application speed.
+ - Managed the development of a streamlined log collection system with Fluentbit; established operational visibility leading to identification of 3 primary issues causing downtime in production environments.
+ - Executed system design improvement for 30% advancement in scalability and implemented global forms integrations with help of webhook integrations.
 
-#### Tech Consultant Silisoul - Bangalore
+Technologies: gRPC, Redis, Kafka, Flask, SQS, Fluentbit, Fastly, AWS S3
 
-10/2023 - Present
+#### Software Development Engineer 2 @ Bolt.Earth
+April 2022 - February 2024 | Bangalore, India
 
--   Back-End Solution Strategist: Guided a team of 2 in backend development, creating systems tailored to client needs through regular client interactions and feedback.
--   Front-End Development Leader: Directed a team of 3 in front-end development, focusing on crafting usercentered interfaces based on direct user feedback and usability studies.
--   DevOps Pioneer with Scalability Focus: Led the deployment of Kubernetes and containerization, improving scalability and deployment efficiency through continuous dialogue with the development team to identify and resolve operational bottlenecks.
-    Technologies: ReactJs, PostgreSQL, Cloud 9, AWS EC2, Kubernetes, ngrok, AWS VPC, AWS IAM, AWS S3, Elastic Load Balancing, Docker hub, Container, Helm, Golang, Gin, Iris
+
+ - Orchestrated a multi-channel notification system post client consultation, leading to a 30% increase in user activity and a 25% reduction in message delivery time.
+ - Led a team of 5 to create wallet service integrated with cashfree for seamless transaction across the platform.
+ - Collaborated closely with clients and the data team to identify and address the needs, resulting in the creation of a charger log analytics data pipeline poised to enhance processing efficiency and accuracy by 40%.
+ - Identified and resolved customer pain points, re-engineering the charger booking API to double the efficiency and increase booking rates by 50%.
+ - Produced in tandem with the product team to conceptualize and implement a user feedback system, leading to a 60% rise in user engagement and 25% higher customer satisfaction.
+ - Identified and addressed customer-facing issues, refining OLAP design to cut query processing time by 45% and increase data analysis efficiency by 30%.
+ - Designed and implemented a comprehensive user action tracking system, integrating Kafka to achieve 100% coverage, following an in-depth analysis of user behavior.
+ - Pioneered a highly efficient referral system using Nest.js, which resulted from understanding and addressing user needs, achieving complete success in adoption and engagement.
+ - Created a realtime routing system utilizing the Google Maps API, ensuring optimal navigation and accessibility between chargers.
+
+Technologies: RESTful API, gRPC, Redis, Kafka, Sentry, MERN stack, NestJs
 
 #### Software Engineer Soroco India - Bangalore, India
 
@@ -71,15 +78,7 @@ Frameworks Nodejs, Spring-MVC, Spring boot, Hibernate, Gin, revel, beego, FastAP
 -   Interactive Dashboard Developer: Enhanced dashboard interactivity using Django and Angular, following
     thorough user experience research to improve usability.
 -   Automation Expert in Inventory Management: Developed an automated bill scanning and inventory management system for Bayer, rooted in a deep understanding of their operational challenges, leading to major efficiency gains.
-    Technologies used: Django
-
-#### Python Developer Qblocks - Bangalore, India
-
-11/2020 - 02/2021
-
--   R&D on container isolation, resource allocation and security groups.
--   Migrated 20% of Flask API to Django API.
-    Technologies used: Go language, Containers, NVidia container, docker container.
+    Technologies used: Django, Angular
 
 ---
 
